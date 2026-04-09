@@ -1,0 +1,12 @@
+# Shopify App Configuration
+
+description = "Your Shopify app description"
+
+# Replace with your app's values
+name = "Your App Name"
+version = "0.0.1"
+
+# Define your app's extensions
+extensions = [
+  "your_extension_name"
+]
